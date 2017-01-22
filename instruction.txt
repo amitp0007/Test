@@ -11,7 +11,7 @@ merge fork to upstream
 change upstream
 merge upstream to fork
 
-Update from upstream to feature branch
+Update from upstream to feature branch2
 
 1 - update from branch "Update"
 

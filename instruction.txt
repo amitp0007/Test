@@ -1,0 +1,14 @@
+Create git repo
+check in files
+
+create fork
+create branch 
+push changes
+
+create full request
+merge fork to upstream
+
+change upstream
+merge upstream to fork
+
+
